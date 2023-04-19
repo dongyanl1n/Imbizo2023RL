@@ -1,4 +1,11 @@
-# Tutorial for IBRO-Simons Computational Neuroscience Imbizo 2022 - Annik Carson
+# Tutorial for IBRO-Simons Computational Neuroscience Imbizo 2023 - Dongyan Lin
+
+## Getting started
+# Recommended path: Clone repository and run RL_tut_exercise.ipynb locally
+
+# Alternatively, you can run COLAB_FRIENDLY_RL_tut_exercise.ipynb with Google colab
+[![Open In Colab](https://github.com/dongyanl1n/Imbizo2023RL/blob/main/COLAB%20FRIENDLY%20-%20RL_tut_exercise.ipynb)](https://github.com/dongyanl1n/Imbizo2023RL/blob/main/COLAB%20FRIENDLY%20-%20RL_tut_exercise.ipynb)]
+
 This tutorial is to lay out the major concepts of reinforcement learning 
 and to offer some small practical exercises for testing intuition. 
 
